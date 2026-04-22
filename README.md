@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Virendra Yadav
 👀 I’m Working as IT Head in Eighteenpixels India Pvt. Ltd. <br>
-🌱 I’m currently learning DevOps Current Trends, SRE. <br>
+🌱 I’m currently Exploring GenAI, DevOps Trends and SRE. <br>
 💞️ I’m looking to collaborate in any Open source projects.<br>
 💬 Ask me Anything About Software Development. <br>
 📫 Mail @virendrauim.90@gmail.com <br>
