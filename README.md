@@ -10,5 +10,5 @@
 ✅ Here you can check out my blogs: 👇<br> 
 <a href="https://www.wpblogwala.in" target="_blank">WP Blog Wala </a> <br>
 <a href="https://agriwala.in/" target="_blank">AgriWal </a> <br>
-<a href="https://rambhakthanuman.com/" target="_blank">Rambhakt Hamuman </a>
- <br>
+<a href="https://rambhakthanuman.com/" target="_blank">Rambhakt Hamuman </a><br>
+<a href="https://nextdevera.com/" target="_blank">Next Dev Era </a>
